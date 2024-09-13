@@ -39,4 +39,4 @@ A personal project where I used data from Steam to reflect on my gaming history 
 
 ### Netflix Rating Analytics
 [Github](https://github.com/alyssapepito/portfolio-projects/blob/main/pbix/Netflix%20Analysis.pbix)<br /><br />
-I found this dataset from Kaggle and wanted to explore Power BI's intricacies. Design was heavily inspired by Power BI Bro.
+I found this dataset from [Kaggle](https://www.kaggle.com/datasets/snehaanbhawal/netflix-tv-shows-and-movie-list) and wanted to explore Power BI's intricacies. Design was heavily inspired by Power BI Bro.
